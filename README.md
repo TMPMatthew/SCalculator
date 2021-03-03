@@ -1,2 +1,2 @@
 # SCalculator
- Simple IOS calcualtor created from tutorial by IOS Academy
+➕➖ Simple IOS calcualtor created from tutorial by IOS Academy✖️➗
